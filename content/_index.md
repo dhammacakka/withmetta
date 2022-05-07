@@ -8,5 +8,5 @@ cascade:
 ---
 
 
-Below are stories of loving-kindness.  Choose a store or by category of "Giving" or "Receiving".  Write your own and submit to withmetta.net
+Below are stories of loving-kindness.  Choose by category of "Giving" or "Receiving".  Write your own and submit to withmetta.net
 

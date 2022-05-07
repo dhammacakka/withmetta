@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/Vasil/work/dhamma/withmetta",
+	"sourceRoot": "/home/bhante/git/withmetta",
 	"sources": [
 		"stdin"
 	],
