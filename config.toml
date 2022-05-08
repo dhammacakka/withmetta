@@ -1,4 +1,4 @@
-baseURL = 'https://dhammacakka.github.io/withmetta/'
+baseURL = 'https://withmetta.pali.tools/'
 languageCode = 'en-us'
 title = 'With Metta'
 theme = "ananke"
