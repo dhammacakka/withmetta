@@ -2,28 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on With Metta</title>
-    <link>https://withmetta.pali.tools/categories/</link>
+    <link>https://dhammacakka.github.io/withmetta/categories/</link>
     <description>Recent content in Categories on With Metta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://withmetta.pali.tools/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Development</title>
-      <link>https://withmetta.pali.tools/categories/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://withmetta.pali.tools/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://withmetta.pali.tools/categories/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://withmetta.pali.tools/categories/golang/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://dhammacakka.github.io/withmetta/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
