@@ -1,4 +1,4 @@
-baseURL = 'https://dhammacakka.github.io/withmetta/'
+baseURL = 'https://withmetta.pali.tools/'
 languageCode = 'en-us'
 title = 'With Metta'
 theme = "ananke"
@@ -7,7 +7,6 @@ SectionPagesMenu = "main"
 Paginate = 30 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-publishDir = "docs"
 
 
 [sitemap]
