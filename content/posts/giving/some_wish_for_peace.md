@@ -4,6 +4,8 @@ date: 2022-05-03T11:53:49+06:30
 draft: false
 featured_image: "images/some-wish-for-peace.jpg"
 ---
+{{< figure src="/images/some-wish-for-peace.jpg">}}
+
 
 # Some wish for peace, I did something (story below)
 I just got back from inviting 2 Muslims to serve at the head of the meal line for Tomorrow’s lunch at Pa-Auk. Everyone thought I was crazy and that the Muslims would kill me or at least shout at me as soon as I entered the compound. Instead they sat us down and offered us apples, and fruit juice with a happy and warm welcoming smiles.

@@ -4,6 +4,7 @@ date: 2022-05-03T11:53:49+06:30
 draft: false
 featured_image: "/images/dinner-for-one.png"
 ---
+{{< figure src="/images/dinner-for-one.png">}}
 
 # Dinner For One
 I remember when I was taking Pāli Language lessons at The American Burmese Buddhist Association in Brooklyn, New York some time in 1998. The monastery was virtually unknown to the local Americans at that time and I would go there on Fridays and leave on Sundays for my private lessons from the chief monk who spoke English. The monastery was in the heart of the city, and part of it was a warehouse… or better to say, it was a warehouse, and part of it was a monastery. The urban neighborhood was not so great, but there was a Rastafarian health food store that I “discovered” around the corner. Being a vegetarian, that was my special food store, and I would pick up some things for my journey back home on Sundays.

@@ -3,8 +3,10 @@ title: “The Vote Was Nay”
 date: 2022-05-03T11:53:49+06:30
 draft: false
 featured_image: "/images/thisbeone4bhante-1-1024x768.jpg"
-
 ---
+{{< figure src="/images/thisbeone4bhante-1-1024x768.jpg">}}
+
+
 # The Vote Was Nay
 
 By Randy, The Auto Worker

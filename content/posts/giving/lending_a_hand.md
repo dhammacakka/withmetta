@@ -4,6 +4,8 @@ date: 2022-05-03T11:53:49+06:30
 draft: false
 featured_image: "/images/car_snow.jpg"
 ---
+{{< figure src="/images/car_snow.jpg">}}
+
 
 
 #  Lending a Hand 

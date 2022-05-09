@@ -6,6 +6,7 @@ featured_image: '/images/shes-got-a-ticket.jpg'
 
 ---
 
+{{< figure src="/images/shes-got-a-ticket.jpg">}}
 
 # Ticket to Ride
 

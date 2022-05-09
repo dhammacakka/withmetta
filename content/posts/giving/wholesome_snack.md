@@ -3,8 +3,10 @@ title: "A wholesome snack"
 date: 2022-05-03T11:53:49+06:30
 draft: false
 featured_image: "/images/chineseroll.jpg"
-
 ---
+{{< figure src="/images/chineseroll.jpg">}}
+
+
 ## A wholesome snack
 It was an evening about 3 pm when we were on our way home. Me and my two sons. We have this small cafeteria close to our house and usually we stop by to pick up some snacks for tea in the evenings. My sons remained inside the rickshaw and I went inside the cafe. I saw this lady near the counter. I waited until she paid and I could see the staff behind the cashier whispering to each other. There were about 4 ladies along with the cashier. The customer walked past and as she was going she slowed down near the food on display. There was such longing inside her eyes. All the while when I ordered my stuff I continued to watch her. Her tea was brought and I was surprised because I was sure she was hungry. From the behaviour of the staff I could tell that she had no money to pay for food, probably she must have asked for some free food and got rejected and that she must be a very frequent “desperate” customer probably a nuisance by now.
 

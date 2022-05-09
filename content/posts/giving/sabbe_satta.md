@@ -4,6 +4,7 @@ description: "giving to all"
 draft: false
 featured_image: "/images/sabbesatta2-1280x480.jpg"
 ---
+{{< figure src="/images/sabbesatta2-1280x480.jpg">}}
 
 
 # Sabbe Satta (metta)

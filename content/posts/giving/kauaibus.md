@@ -5,6 +5,9 @@ draft: false
 featured_image: "/images/kauaibus.jpg"
 ---
 
+{{< figure src="/images/kauaibus.jpg">}}
+
+
 # More Than A Bus Driver
 I overheard the bus driver telling this amazing story about his generosity to another passenger and afterwards, I asked him to tell me his story as an audio recording for this website. 
 

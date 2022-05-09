@@ -3,9 +3,9 @@ title: "Thumbs Up For Hitch-hiking"
 date: 2022-05-03T11:53:49+06:30
 draft: false
 featured_image: '/images/thumbs.jpg'
-
 ---
-![my photo ](/images/thumbs.jpg)
+{{< figure src="/images/thumbs.jpg">}}
+
 
 # Thumbs Up For Hitchhiking
 

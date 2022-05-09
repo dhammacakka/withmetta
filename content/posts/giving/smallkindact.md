@@ -4,7 +4,7 @@ date: 2022-05-03T11:53:49+06:30
 draft: false
 featured_image: "/images/birthday-cake.jpg"
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/birthday-cake.jpg">}}
 
 ## A Small But Kind Act, by Medini Richardson
 

@@ -2,8 +2,9 @@
 title: "A Different Kind of View"
 date: 2022-05-03T11:53:49+06:30
 draft: false
-featured_image: "/images/diffview2-1423x480.jpg"
+featured_image: "/images/a-different-kind-of-view.jpg"
 ---
+{{< figure src="/images/a-different-kind-of-view.jpg">}}
 
 
 # A Different Kind of View

@@ -7,8 +7,22 @@ menu:
     weight: 8
 ---
 
-
 # WithMetta.net
 
->## my server is gmail
->## my user identifier is _bksubhuti_
+
+{{< form-contact action="https://formspree.io/f/xrgjrgoa"  >}}
+
+
+<p>
+ <br/>
+ <br/>
+
+ # &nbsp;
+
+
+### Don't want to use an email form?
+> my server is gmail 
+>
+> my user identifier is _bksubhuti_
+
+
