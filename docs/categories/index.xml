@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on With Metta</title>
-    <link>https://withmetta.pali.tools/categories/</link>
+    <link>https://withmetta.net/categories/</link>
     <description>Recent content in Categories on With Metta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://withmetta.pali.tools/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://withmetta.net/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
